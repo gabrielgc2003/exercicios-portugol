@@ -10,7 +10,6 @@ programa
 	(V1 e V2). Peça ao usuário os dez operadores aritméticos e armazene num terceiro vetor (V3).
 	Escreva o resultado da operação do primeiro vetor, a operação aritmética e o valor da posição 
 	no segundo vetor. Por fim, imprima o resultado em tela.
-	v1[10]={2.0,6.0,8.0,3.0,10.0,9.0,1.0,21.0,33.0,14.0}, v2[10]={8.0,4.0,5.0,8.0,9.0,10.0,2.0,17.0,11.0,5.0}
 	*/
 
 	inteiro v1[10]={2,6,8,3,10,9,1,21,33,14}, v2[10]={8,4,5,8,9,10,2,17,11,5}
